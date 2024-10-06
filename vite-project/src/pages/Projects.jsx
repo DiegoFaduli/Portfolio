@@ -5,17 +5,17 @@ const projects = [
     id: 1,
     title: 'Site de Aposta Bettery',
     description: 'Este projeto consiste em uma plataforma de apostas online, oferecendo aos usuários uma experiência de interação social e aposta em eventos esportivos. Utilizando JavaScript, HTML, CSS, e React, o site foi projetado para ser rápido, intuitivo e acessível em diversos dispositivos.',
-    imageUrl: '/public/Images/bettery.png',
+    imageUrl: '/Images/bettery.png',
     technologies: 'Javascript, HTML, CSS e React',
-    githubLink: 'https://github.com/DiegoFaduli',
+    githubLink: 'https://github.com/DiegoFaduli/Webdev-challenge-teste',
   },
   {
     id: 2,
     title: 'AirBnb',
     description: 'Uma interface web minimalista inspirada no famoso modelo da AirBnb, este projeto simula funcionalidades de um sistema de aluguel de propriedades. Desenvolvido com JavaScript, HTML, CSS, e Bootstrap. Ideal para demonstrar habilidades em desenvolvimento front-end com foco em experiência do usuário.',
-    imageUrl: '/public/Images/Airbnb.PNG',
+    imageUrl: '/Images/Airbnb.PNG',
     technologies: 'Javascript, HTML, CSS, Bootstrap e React',
-    githubLink: 'https://github.com/DiegoFaduli/Webdev-challenge-teste',
+    githubLink: 'https://github.com/DiegoFaduli/Replica_AirBnb',
   },
 ];
 
