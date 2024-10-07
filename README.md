@@ -1,4 +1,4 @@
-# Meu Portfólio de Projetos
+# Meu Portfólio
 
 Este repositório contém um portfólio pessoal que desenvolvi, utilizando várias tecnologias e bibliotecas modernas. Abaixo estão detalhes de cada projeto, incluindo descrições, tecnologias utilizadas e instruções para configuração e execução local.
 
