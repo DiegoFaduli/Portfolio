@@ -30,5 +30,6 @@ Para executar o projeto localmente, siga os passos abaixo:
    npm install
 4. Visualizar o site:
    npm run dev
+
 Ou clique no link da vercel abaixo:
 https://vite-project-bice-three.vercel.app
