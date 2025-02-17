@@ -2,12 +2,12 @@ import React from 'react';
 import './index.css';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './assets/components/Navbar';
-import Footer from './assets/components/Footer';
-import Home from './pages/Home';
-import About from './pages/About';
-import Projects from './pages/Projects';
-import Contact from './pages/Contact';
+import Navbar from './assets/Components/Navbar.jsx';
+import Footer from './assets/Components/Footer.jsx';
+import Home from './pages/Home.jsx';
+import About from './pages/About.jsx';
+import Projects from './pages/Projects.jsx';
+import Contact from './pages/Contact.jsx';
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
               <Route path="/about" element={<About />} />
               <Route path="/projects" element={<Projects />} />
               <Route path="/contact" element={<Contact />} />
-            </Routes>
+            </Routes> 
           </main>
         </div>
         <Footer />
