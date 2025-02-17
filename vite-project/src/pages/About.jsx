@@ -10,16 +10,16 @@ const About = () => {
             <div className="md:px-8">
               
               <h2 className="font-bold text-3xl text-left mb-5">
-                Olá, sou estudante de <span className="text-blue-500">Engenharia de Software</span> com paixao por <span className="text-blue-500">FullStack</span>.
+                Olá, sou estudante de <span className="text-blue-500">Engenharia de Software</span> com paixao por <span className="text-blue-500">Back-End</span>.
               </h2>
             </div>
             <div>
               <p className="text-left font-normal mb-5 flex-wrap">
-                Estou cursando minha graduação na FIAP. A maior parte da minha experiência é em desenvolvimento web full stack e resolução de problemas.
+                Estou cursando minha graduação na FIAP. Atualmente estou aprofundando meus conhecimentos em Java e Python, com foco na integração com bancos de dados.
               </p>
               <p className="text-left font-normal mb-5 flex-wrap"></p>
               <p className="text-left font-normal mb-5 flex-wrap">
-                No meu tempo livre, adoro aprender novas tecnologias e me manter atualizado com o desenvolvimento full stack. Fora da programação, gosto de ver NBA e assistir diversos filmes.
+                No meu tempo livre, adoro aprender novas tecnologias e me manter atualizado com o desenvolvimento back-End. Fora da programação, gosto de ver NBA e assistir diversos filmes.
               </p>
             </div>
           </div>

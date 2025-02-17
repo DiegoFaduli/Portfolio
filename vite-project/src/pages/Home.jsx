@@ -9,7 +9,7 @@ export default function Home() {
         <p className="text-xl mb-6">Sou Engenheiro de Software</p>
         <div className="flex justify-center">
           <a 
-            href="/files/Currículo.pdf"
+            href="/files/Curriculo.pdf"
             download
             className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-100 flex items-center justify-center transition-colors duration-300"
           >
@@ -24,3 +24,4 @@ export default function Home() {
     </div>
   );
 }
+  

@@ -6,7 +6,7 @@ import { FaReact } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
 import { DiDjango } from "react-icons/di";
 import { SiMysql } from "react-icons/si";
-import { FaBootstrap } from "react-icons/fa";
+import { FaJava } from "react-icons/fa";
 import { SiNumpy } from "react-icons/si";
 import { SiPandas } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
@@ -20,6 +20,10 @@ const Skills = () => {
         <ul className="flex justify-start items-center flex-row flex-wrap gap-8 p-8">
           <span className="text-blue-500 text-2xl w-full text-center md:w-fit">Backend</span>
 
+          <li className="text-xl font-bold flex justify-center items-center flex-col">
+            <FaJava size="40px" />
+            Java
+          </li>
           <li className="text-xl font-bold flex justify-center items-center flex-col">
             <DiDjango size="40px" />
             Django
@@ -36,10 +40,6 @@ const Skills = () => {
           <li className="text-xl font-bold flex justify-center items-center flex-col">
             <SiMysql size="40px" />
             Mysql
-          </li>
-          <li className="text-xl font-bold flex justify-center items-center flex-col">
-            <FaBootstrap size="40px" />
-            Bootstrap
           </li>
         </ul>
 
