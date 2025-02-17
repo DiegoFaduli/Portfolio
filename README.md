@@ -32,4 +32,4 @@ Para executar o projeto localmente, siga os passos abaixo:
    npm run dev
 
 Ou clique no link da vercel abaixo:
-https://vite-project-bice-three.vercel.app
+vite-project-bice-three.vercel.app
